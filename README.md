@@ -4,7 +4,6 @@
  
 推荐使用github免费提供action机制执行脚本， 联通手厅签到用户请自行添加秘钥参数（https://github.com/你的用户名/88-AutoSignMachine/settings/secrets/actions 然后点击New repository secret）
 
-123123123
 unicom_password（服务密码）
 
 unicom_user（手机号）
